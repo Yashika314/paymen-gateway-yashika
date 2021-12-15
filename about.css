@@ -1,0 +1,34 @@
+body{
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration: rgb(107, 219, 105);
+    text-shadow: rgb(34, 8, 95);
+    color: rgb(77, 4, 28);
+    font-weight: bold;
+    background-image: url(bg2.jpg);
+    background-size: 100%;
+   
+  }
+  .content{
+    background-color: rgba(1, 13, 29, 0);
+    
+    height: 400px;
+    width: 700px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+
+    padding: 40px;
+    margin-left: 750px;
+  }
+    .about1 {
+      color: rgb(213, 212, 240);
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-weight: 600;
+      text-align: center;
+      background-color: rgb(241, 0, 0);
+      
+  
+    }
